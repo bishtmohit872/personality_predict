@@ -10,7 +10,7 @@
   </h1> 
   <b>This project helps in finding the Personality of person just by typing the text. This project is made on python and Streamlit framework</b><br><br>
   <ul>
-  <li style="list-style:none;">This is build on python with streamlit framework and it is based on Machine learning.</li>
-  <li style="list-style:none;">BackEnd of this website is managed by Django</li>
+  <li>This is build on python with streamlit framework and it is based on Machine learning.</li>
+  <li>BackEnd of this website is managed by Django</li>
   </ul>
 </div>
